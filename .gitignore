@@ -1,3 +1,5 @@
 _site/
 .DS_Store
 /private/
+/syllabus-body.tex
+/syllabus-psci-221.bbl
