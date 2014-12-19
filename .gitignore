@@ -3,3 +3,5 @@ _site/
 /private/
 /syllabus-body.tex
 /syllabus-psci-221.bbl
+
+_assignments/*.tex
