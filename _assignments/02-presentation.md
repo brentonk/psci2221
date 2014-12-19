@@ -28,7 +28,7 @@ The presentation should answer the following questions:
 
     * The form of evidence varies across readings.  Historical readings, naturally, rely mainly on the historical record, including primary sources.  Political science papers may use case studies, statistical models, or sheer logical reasoning (e.g., a formal model).
 
-    * Some of the readings, particularly those in political science journals, present the gory mathematical details of formal models or statistical analyses.  Needless to say, you are not expected to present technical or mathematical material---just the substantive argument and the reasoning behind it.  That said, if you are especially "math-phobic," be careful about which reading you choose to present.
+    * Some of the readings, particularly those in political science and economics journals, present the gory mathematical details of formal models or statistical analyses.  Needless to say, you are not expected to present technical or mathematical material---just the substantive argument and the reasoning behind it.  That said, if you are especially "math-phobic," be careful about which reading you choose to present.
 
 3. What are some counterpoints to the main argument?  How does (or would) the paper address them?
 
