@@ -14,7 +14,7 @@ You will turn in three critical response papers over the course of the semester.
 
 Each paper will consist of a critical assessment of one of the course readings (required or supplemental).  Your paper must be turned in within a week of the reading it responds to.  For example, if your first response paper addresses a reading from the week of January 27--29, the latest it can be turned in is Thursday, February 5.
 
-[^page-lengths]: Page lengths quoted assume a double-spaced document with 12-point text and 1-inch margins.  I reserve the right not to read any content past three pages and to reduce your grade for exceeding the page limit.
+[^page-lengths]: Page lengths quoted assume a double-spaced document with 12-point text and 1-inch margins.  I reserve the right not to read any content past four pages and to reduce your grade for exceeding the page limit.
 
 A critical response paper makes an argument.  It is not a summary---in fact, it should be written under the assumption that the reader is familiar with the work it is responding to.  To be "critical" of a work does not mean to be "against" it, but rather to reflect on it in a well-informed, objective way.  Your criticisms must be grounded in reason and evidence, not personal taste.
 
