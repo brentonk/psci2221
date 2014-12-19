@@ -243,15 +243,15 @@ Of these, Kennedy requires the least background in European history, Kaiser the 
 
 * Robert D. Putnam, ["Diplomacy and Domestic Politics: The Logic of Two-Level Games,"](http://www.jstor.org/stable/2706785) *International Organization* 42, no. 3 (1988): 427--460.
 
-* Matthew O. Jackson and Massimo Morelli, ["Political Bias and War,"](http://www.jstor.org/stable/30034096) *American Economic Review* 97, no. 4 (2007): 1353--1373.
+* James D. Fearon, ["Domestic Political Audiences and the Escalation of International Disputes,"](http://www.jstor.org/stable/2944796) *American Political Science Review* 88, no. 3 (1994): 577--592.
 
 * *Supplemental:*
-
-    * James D. Fearon, ["Domestic Political Audiences and the Escalation of International Disputes,"](http://www.jstor.org/stable/2944796) *American Political Science Review* 88, no. 3 (1994): 577--592.
 
     * Kenneth A. Schultz, ["Domestic Opposition and Signaling in International Crises,"](http://www.jstor.org/stable/2586306) *American Political Science Review* 92, no. 4 (1998): 829--844.
 
     * Giacomo Chiozza and H.E. Goemans, ["International Conflict and the Tenure of Leaders: Is War Still *Ex Post* Inefficient?"](http://www.jstor.org/stable/1519919) *American Journal of Political Science* 48, no. 3 (2004): 604--619.
+
+    * Matthew O. Jackson and Massimo Morelli, ["Political Bias and War,"](http://www.jstor.org/stable/30034096) *American Economic Review* 97, no. 4 (2007): 1353--1373.
 
     * Jessica L. Weeks, ["Autocratic Audience Costs: Regime Type and Signaling Resolve,"](http://www.jstor.org/stable/40071874) *International Organization* 62, no. 1 (2008): 35--64.
 
