@@ -1,10 +1,8 @@
 ---
 category: note
-title: Course Notes
-layout: default
+title: Lecture Slides
+layout: note
 ---
-
-# Course Notes
 
 {% for note in site.notes %}
 * [{{note.title}}]({{note.url}})  

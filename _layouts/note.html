@@ -6,8 +6,19 @@ layout: default
 <h1 class="page-title">{{page.title}}</h1>
 {% endif %}
 
-{% if page.pdf %}
-These notes are also available <a href="{{page.pdf}}">as a PDF</a>.
-{% endif %}
-
 {{content}}
+
+{% if page.slides %}
+<h1>Slides</h1>
+
+{% for slide in page.slides %}
+<h2>{{slide.title}}</h2>
+
+<a href="/slides/{{slide.file}}.pdf"><img class="img-thumbnail" src="/slides/{{slide.file}}.tiff" /></a>
+
+<p class="text-info"><small>
+  Markdown source: <a href="/slides/{{slide.file}}.md"><code>{{slide.file}}.md</code></a>.
+</small></p>
+{% endfor %}
+
+{% endif %}
