@@ -79,9 +79,9 @@ Links to all journal articles are available in the syllabus on the course websit
 
 * Carl von Clausewitz, "What Is War?", book 1, chap. 1 in *On War*, trans. Michael Howard and Peter Paret (Princeton University Press, 1989).
 
-* John Keegan, "War in Human History," chap. 1 in *A History of Warfare* (Vintage, 1993).
-
 * James D. Fearon, ["Counterfactuals and Hypothesis Testing in Political Science,"](http://www.jstor.org/stable/2010470) *World Politics* 43, no. 2 (1991): 169--195.
+
+* *Optional but highly recommended:* John Keegan, "War in Human History," chap. 1 in *A History of Warfare* (Vintage, 1993).
 
 
 ### January 13--15: The Bargaining Problem
