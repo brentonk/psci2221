@@ -1,7 +1,7 @@
 slide_pdfs = $(wildcard *.pdf)
-slide_tiffs = $(slide_pdfs:.pdf=.tiff)
+slide_thumbs = $(slide_pdfs:.pdf=.png)
 
-all : $(slide_tiffs)
+all : $(slide_thumbs)
 
-$(slide_tiffs) : %.tiff : %.pdf
+$(slide_thumbs) : %.png : %.pdf
 	convert $<[0] $@
