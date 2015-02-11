@@ -16,6 +16,8 @@ Each paper will consist of a critical assessment of one of the course readings (
 
 [^page-lengths]: Page lengths quoted assume a double-spaced document with 12-point text and 1-inch margins.  I reserve the right not to read any content past four pages and to reduce your grade for exceeding the page limit.
 
+**Clarification:** Late papers will not be accepted (and thus will receive a grade of zero) unless you have documentation of a medical or family emergency.
+
 A critical response paper makes an argument.  It is not a summary---in fact, it should be written under the assumption that the reader is familiar with the work it is responding to.  To be "critical" of a work does not mean to be "against" it, but rather to reflect on it in a well-informed, objective way.  Your criticisms must be grounded in reason and evidence, not personal taste.
 
 Here are some examples of the kind of argument a critical response paper might make.  This is not an exhaustive list; criticism can take many forms.
