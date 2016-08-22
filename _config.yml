@@ -32,3 +32,9 @@ defaults:
     values:
       category: assignment
       layout: assignment
+
+
+exclude:
+  - 'mutual-optimism-game'
+  - 'private'
+  - 'slides'
