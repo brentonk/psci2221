@@ -1,7 +1,7 @@
-all : syllabus-psci-221.pdf
+all : syllabus-psci-2221.pdf
 
-syllabus-psci-221.pdf : syllabus-psci-221.tex syllabus-body.tex
-	latexmk -bibtex- syllabus-psci-221
+syllabus-psci-2221.pdf : syllabus-psci-2221.tex syllabus-body.tex
+	latexmk -bibtex- syllabus-psci-2221
 	latexmk -c
 
 syllabus-body.tex : syllabus.md
