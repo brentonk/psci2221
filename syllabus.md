@@ -5,6 +5,8 @@ layout: syllabus
 pdf: syllabus-psci-2221.pdf
 ---
 
+*This is the revised syllabus dated October 19, 2016.*
+
 # Description
 
 War is awful.  In the 20th century alone, war killed at least 136 million people.[^leitenberg]  Our goal in this course is to better understand the political processes that lead to all this destruction.  We will try to rationalize war.
@@ -34,7 +36,7 @@ Your grade in PSCI 2221 will be based on:
 
     There are three parts to the final paper:
 
-    * *Proposal (5%).*  You will write a 1--2 page proposal summarizing (1) your research question and (2) the body of evidence you will consult to back your argument.  I will not accept your final paper submission unless you have submitted a proposal and I have approved it.  The proposal itself is not graded, but 5% of your grade comes from turning it (and any subsequent revisions requested) in on time.  Proposals are due October 26.
+    * *Proposal (5%).*  You will write a 1--2 page proposal summarizing (1) your research question and (2) the body of evidence you will consult to back your argument.  I will not accept your final paper submission unless you have submitted a proposal and I have approved it.  The proposal itself is not graded, but 5% of your grade comes from turning it (and any subsequent revisions requested) in on time.  Proposals are due October 31.
 
     * *Presentation (10%).*  In the penultimate week of class, each student will deliver a brief (5--10 minute) presentation in class about his or her research design and preliminary findings.
 
@@ -184,7 +186,7 @@ Links to all journal articles are available in the syllabus on the course websit
     * J. Tyson Chatagnier and Kerim Can Kavakli, ["From Economic Competition to Military Combat: Export Similarity and International Conflict,"](http://dx.doi.org/10.1177/0022002715613565) *Journal of Conflict Resolution* (2015).
 
 
-## October 17--21: Democracy, Capital, and War
+## October 24--28: Democracy, Capital, and War
 
 * David A. Lake, ["Powerful Pacifists: Democratic States and War,"](http://www.jstor.org/stable/1964013) *American Political Science Review* 86, no. 1 (1992): 24--37.
 
@@ -201,9 +203,9 @@ Links to all journal articles are available in the syllabus on the course websit
     * Matthew O. Jackson and Massimo Morelli, ["Political Bias and War,"](http://www.jstor.org/stable/30034096) *American Economic Review* 97, no. 4 (2007): 1353--1373.
 
 
-## October 24--28: War Doesn't Kill People; Leaders Start Wars That Kill People
+## October 31--November 4: War Doesn't Kill People; Leaders Start Wars That Kill People
 
-*Final paper proposal due in class Wednesday, October 26.*
+*Final paper proposal due in class Monday, October 31.*
 
 * Giacomo Chiozza and H.E. Goemans, ["Peace through Insecurity: Tenure and International Conflict"](http://www.jstor.org/stable/3176204) *Journal of Conflict Resolution* 47, no. 4 (2003): 443--467.
 
@@ -218,24 +220,9 @@ Links to all journal articles are available in the syllabus on the course websit
     * Kenneth A. Schultz, ["Domestic Opposition and Signaling in International Crises,"](http://www.jstor.org/stable/2586306) *American Political Science Review* 92, no. 4 (1998): 829--844.
 
 
-## October 31--November 4: The Gender Politics of War
-
-* Valerie M. Hudson et al., ["The Heart of the Matter: The Security of Women and the Security of States,"](http://www.jstor.org/stable/40207140) *International Security* 33, no. 3 (2008/2009): 7--45.
-
-* Laura Sjoberg and Jessica Peet, ["A(nother) Dark Side of the Protection Racket: Targeting Women in Wars,"](http://dx.doi.org/10.1080/14616742.2011.560751) *International Feminist Journal of Politics* 13, no. 2 (2011): 163--182.
-
-* Supplemental:
-
-    * Susan Rae Peterson, "Coercion and Rape: The State as a Male Protection Racket," in *Feminism and Philosophy*, ed. Mary Vetterling-Braggin, Frederick Elliston, and Jane English (Rowman & Littlefield, 1977).
-
-    * Mark Tessler and Ina Warriner, ["Gender, Feminism, and Attitudes toward International Conflict: Exploring Relationships with Survey Data from the Middle East,"](http://www.jstor.org/stable/25053999) *World Politics* 49, no. 2 (1997): 250--281.
-
-    * Dara Kay Cohen, ["Explaining Rape during Civil War: Cross-National Evidence (1980–2009),"](http://dx.doi.org/10.1017/S0003055413000221) *American Political Science Review* 107, no. 3 (2013): 461--477.
-
-
 ## November 7--11: The Great War
 
-*Second critical response paper due in class Wednesday, November 9.*
+*Second critical response paper due in class Friday, November 11.*
 
 * Christopher Clark, *Sleepwalkers*, chap. 1--6.
 
